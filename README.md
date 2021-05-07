@@ -1,1 +1,1 @@
-# J3LP0013
+# Simple Java EE with Gradle, deploy on Glassfish Server
