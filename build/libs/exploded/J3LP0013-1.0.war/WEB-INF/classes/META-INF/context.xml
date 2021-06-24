@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Context path="/J3.L.P0013">
-    <Environment name="severName" value = "192.168.84.133" type="java.lang.String" />
-    <Environment name="port" value = "3306" type="java.lang.String"></Environment>
-    <Environment name="username" value = "lenguyenkhoi21" type="java.lang.String"></Environment>
-    <Environment name="password" value = "LeNguyenKhoi21" type="java.lang.String"></Environment>
-    <Environment name="dbName" value = "J3.L.P0013" type="java.lang.String"></Environment>
-    <Environment name="imgFolder" value = "image/" type="java.lang.String"></Environment>
-</Context>
